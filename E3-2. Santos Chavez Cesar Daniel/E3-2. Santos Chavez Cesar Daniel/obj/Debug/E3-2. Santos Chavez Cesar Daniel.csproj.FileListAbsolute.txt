@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\E3-2. Santos Chavez Cesar Daniel\E3-2. Santos Chavez Cesar Daniel\bin\Debug\E3_2.Santos_Chavez_Cesar_Daniel.exe.config
+C:\Users\dell\source\repos\E3-2. Santos Chavez Cesar Daniel\E3-2. Santos Chavez Cesar Daniel\bin\Debug\E3_2.Santos_Chavez_Cesar_Daniel.exe
+C:\Users\dell\source\repos\E3-2. Santos Chavez Cesar Daniel\E3-2. Santos Chavez Cesar Daniel\bin\Debug\E3_2.Santos_Chavez_Cesar_Daniel.pdb
+C:\Users\dell\source\repos\E3-2. Santos Chavez Cesar Daniel\E3-2. Santos Chavez Cesar Daniel\obj\Debug\E3-2. Santos Chavez Cesar Daniel.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\E3-2. Santos Chavez Cesar Daniel\E3-2. Santos Chavez Cesar Daniel\obj\Debug\E3-2. Santos Chavez Cesar Daniel.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\E3-2. Santos Chavez Cesar Daniel\E3-2. Santos Chavez Cesar Daniel\obj\Debug\E3_2.Santos_Chavez_Cesar_Daniel.exe
+C:\Users\dell\source\repos\E3-2. Santos Chavez Cesar Daniel\E3-2. Santos Chavez Cesar Daniel\obj\Debug\E3_2.Santos_Chavez_Cesar_Daniel.pdb
